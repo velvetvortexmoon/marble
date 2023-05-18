@@ -1,0 +1,93 @@
+{
+    "about": "Contextual multi-armed bandits (Contextual MAB) can be valuable in supply-chain optimization in e-commerce. Contextual MAB algorithms combine the benefits of multi-armed bandits (MAB) and contextual information to make more informed decisions and optimize the supply chain. Here's how Contextual MAB can help in supply-chain optimization in e-commerce:",
+    "sections": [
+        {
+            "title": "All applications",
+            "content": [
+                "There are some papers which focus on all applications in supply chain optimization or even in whole of e-commerce"
+            ],
+            "papers": [
+                {
+                    "title": "A Map of Bandits for E-commerce",
+                    "link": "https://arxiv.org/pdf/2107.00680.pdf"
+                },
+                {
+                    "title": "A Survey on Practical Applications of Multi-Armed and Contextual Bandits",
+                    "link": "https://arxiv.org/pdf/1904.10040.pdf"
+                }
+            ]
+        },
+        {
+            "title": "Dynamic Inventory Management",
+            "content": [
+                "E-commerce supply chains often deal with uncertain demand patterns. Contextual MAB algorithms can learn from historical data and contextual information (such as time of day, seasonality, customer segments, etc.) to dynamically adjust inventory levels for different products. By intelligently allocating inventory based on contextual factors, Contextual MAB can help reduce stockouts, avoid overstocking, and improve overall inventory management."
+            ],
+            "papers": [
+                {
+                    "title": "Bandit-based inventory optimisation: Reinforcement learning in multi-echelon supply chains",
+                    "link": "https://www.sciencedirect.com/science/article/abs/pii/S0925527322001670"
+                },
+                {
+                    "title": "Dynamic Assortment Optimization with Changing Contextual Information",
+                    "link": "https://jmlr.csail.mit.edu/papers/volume21/19-1054/19-1054.pdf"
+                },
+                {
+                    "title": "Reinforcement Learning for Inventory Optimization Series I: An RL Model for Single Retailers",
+                    "link": "https://towardsdatascience.com/a-reinforcement-learning-based-inventory-control-policy-for-retailers-ac35bc592278"
+                }
+            ]
+        },
+        {
+            "title": "Demand Prediction and Pricing",
+            "content": [
+                "Contextual MAB algorithms can leverage contextual information to predict customer demand more accurately. By continuously learning from customer interactions, Contextual MAB models can identify patterns and optimize pricing strategies. This allows e-commerce businesses to adjust prices dynamically based on contextual factors like competitor prices, customer preferences, product popularity, and other relevant variables to maximize revenue and profitability."
+            ],
+            "papers": [
+                {
+                    "title": "The Elements of Joint Learning and Optimization in Operations Management - Chapter 4",
+                    "link": "https://books.google.es/books?hl=en&lr=&id=Ne2KEAAAQBAJ&oi=fnd&pg=PA79&dq=Contextual+multi-armed+bandits+for+dynamic+pricing+and+demand+forecasting+in+personalized+e-commerce+environments&ots=gcD3z8vRQM&sig=E31OEeIcxnm3QEwIa2rk8Wyfo3w#v=onepage&q&f=false"
+                }
+            ]
+        },
+        {
+            "title": "Personalized Recommendations",
+            "content": [
+                "Contextual MAB can enhance the effectiveness of recommendation systems in e-commerce. By considering contextual information such as user demographics, browsing history, and purchase behavior, Contextual MAB algorithms can improve the relevance and personalization of product recommendations. This leads to higher customer satisfaction, increased conversion rates, and improved sales performance."
+            ],
+            "papers": [
+                {
+                    "title": "Contextual Bandit Approach-based Recommendation System for Personalized Web-based Services",
+                    "link": "https://www.tandfonline.com/doi/full/10.1080/08839514.2021.1883855"
+                },
+                {
+                    "title": "A knowledge-enhanced contextual bandit approach for personalized recommendation in dynamic domains",
+                    "link": "https://www.sciencedirect.com/science/article/abs/pii/S0950705122005767"
+                }
+            ]
+        },
+        {
+            "title": "Dynamic Routing and Logistics",
+            "content": [
+                "In e-commerce, efficient delivery and logistics play a crucial role. Contextual MAB algorithms can optimize delivery routes and logistics decisions by considering contextual information such as real-time traffic conditions, weather forecasts, and package characteristics. By dynamically adapting routing decisions based on contextual factors, Contextual MAB can help reduce delivery times, lower transportation costs, and improve customer experience."
+            ],
+            "papers": [
+                {
+                    "title": "Online model-based reinforcement learning for decision-making in long distance routes",
+                    "link": "https://www.sciencedirect.com/science/article/pii/S136655452200179X"
+                }
+            ]
+        },
+        {
+            "title": "Continuous Improvement and Adaptation",
+            "content": [
+                "Contextual MAB algorithms continuously learn and update their decision-making policies based on new data and feedback. This adaptability allows e-commerce businesses to respond to changing market conditions, customer preferences, and supply chain dynamics. Contextual MAB models can optimize decisions over time, improving supply chain efficiency and overall performance."
+            ],
+            "papers": [
+                {
+                    "title": "An Adaptive Reinforcement Learning-Based Scheduling Approach with Combination Rules for Mixed-Line Job Shop Production",
+                    "link": "https://www.hindawi.com/journals/mpe/2022/1672166/"
+                }
+            ]
+        }
+    ]
+}
